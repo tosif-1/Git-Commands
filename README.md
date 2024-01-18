@@ -1,4 +1,4 @@
-Git Commands
+Most commanly used Git Commands
 ============
 
 ## Translated Versions
